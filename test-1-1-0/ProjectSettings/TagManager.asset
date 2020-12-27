@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Scene
+    uniqueID: 1573715721
+    locked: 0
+  - name: BackGround
+    uniqueID: 4269244607
+    locked: 0
+  - name: Plane
+    uniqueID: 1358906291
+    locked: 0
+  - name: Player
+    uniqueID: 3539155319
+    locked: 0
+  - name: Object
+    uniqueID: 2550354065
+    locked: 0
+  - name: FrontGground
+    uniqueID: 572670653
+    locked: 0
